@@ -1,0 +1,5 @@
+openai-cgi-app/openai-cgi-app/requirements.txt
+
+openai
+flask
+cgi-bin
